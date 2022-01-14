@@ -1,0 +1,8 @@
+Git Repository URL
+
+Bookmark the Two Git Repositories of the Course
+
+Java  - https://github.com/in28minutes/java-a-course-for-beginners
+
+Selenium Automation Testing - https://github.com/in28minutes/automation-testing-with-java-and-selenium
+
